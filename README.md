@@ -10,16 +10,16 @@ El repositorio en el que estás actualmente ofrece un overview de nuestras activ
 
 Podés aprender más acerca de nuestros valores y nuestra misión en [Boske](https://boske.org)  
 <br> Join us on Discord: [#Boske](https://discord.gg/SdAtdDaSvp)
-<br> Subscribe to our public calendar [here](https://bit.ly/3uJAHpo)
-<br> github organization, classroom, lab, repos, book, page, etc
-<br> Twitter
-<br> Youtube
-<br> Medium
-<br> Linkedin
+<br> Subscribe to our public calendar [here](https://calendar.google.com/calendar/u/3?cid=Ym9za2VkYW9AZ21haWwuY29t)
+<br> github organization, classroom, lab, repos, book, page, etc: https://github.com/BoskeDAO
+<br> Twitter: https://twitter.com/Boske67896312
+<br> Youtube: https://www.youtube.com/channel/UCnSquEkp8mBB5rSJ5Fq6h7Q
+<br> Medium: https://medium.com/boske
+<br> Linkedin: https://www.linkedin.com/company/boske3/
 
 ## Index:
-* [Intro a Boske](https://github.com/BoskeDAO/IntroToDeFi#Intro-To-DeFi)
-* [Temario del curso](https://github.com/BoskeDAO/IntroToDeFi#Estructura-Del-Curso)
+* [Intro](https://github.com/BoskeDAO/IntroToDeFi#Intro-To-DeFi)
+* [Estructura del curso](https://github.com/BoskeDAO/IntroToDeFi#Estructura-Del-Curso)
 * [Github Classroom]
 
 ----
@@ -27,9 +27,9 @@ Podés aprender más acerca de nuestros valores y nuestra misión en [Boske](htt
 
 **DeFi Tooling**
 * What are DApps
-  * definitions
-  * examples
-* How can we explore the blockcha*in
+  * Definitions
+  * Examples
+* How can we explore the blockchain
 * MetaMask
   * Installation
   * Setting a testnet
