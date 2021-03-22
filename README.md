@@ -1,4 +1,4 @@
-# DefiNation - 
+# DefiNation - 00
 
 Curso abierto de DeFi x boske.org.
 
