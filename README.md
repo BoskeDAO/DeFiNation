@@ -118,10 +118,9 @@ Some extra resources:
 * https://hackernoon.com/dapps-are-they-future-of-the-blockchain-technology-i0713txw
 * https://hackernoon.com/what-is-dapp-and-is-it-hard-to-make-it-nh1a3cpo
  
-A DApp on IPFS -- NOTA: ACTUALIZAR POR YEARN.FINANCE
-* https://ipfs.io/ipfs/Qmd5Q2KnULea662ojskknKbGf4xfv1UUZzhHcsqjLiRcXu/
-* https://iearn.finance/
-* https://github.com/iearn-finance/iearn-finance
+YEARN.FINANCE
+https://yearn.finance/
+https://github.com/yearn/yearn-finance
 
 ## How can we explore the Blockchain
 
